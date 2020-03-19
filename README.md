@@ -3,6 +3,7 @@
 1. Open https://about.gitlab.com/
 2. Open browser's console
 3. Paste to the console and press &lt;Enter&gt;:
+
 ```
 fetch('https://kkorotkov.github.io/guidechimp-samples/bootstrap-browser-console.js')
     .then(response => response.text())
