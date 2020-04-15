@@ -3,9 +3,6 @@
 1. Open https://about.gitlab.com/
 2. Open browser's console
 3. Paste to the console and press &lt;Enter&gt;:
-
-Modification going in PR (fixup)
-
 ```
 fetch('https://kkorotkov.github.io/guidechimp-samples/bootstrap-browser-console.js')
     .then(response => response.text())
@@ -37,4 +34,3 @@ var tour = [
 GuideChimp(tour).start();
 })
 ```
-My modification 1
